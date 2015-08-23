@@ -5,7 +5,9 @@ Project files to the Programming Assigmnent of the Coursera Course.
 This project consist on modifying the original data set available on: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-We have made the following modifications on the data set:
+The original dataset description and the code book describing the original variable names are here: [CodeBook][CodeBook]
+
+### We have made the following modifications on the data set
 
 1. We have merged the training and test data set
 2. For each observation, we have selected only the columns that represents the measurement on the mean and standard deviation for each measurement.
