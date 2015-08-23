@@ -10,9 +10,9 @@ We have made the following modifications on the data set:
 1. We have merged the training and test data set
 2. For each observation, we have selected only the columns that represents the measurement on the mean and standard deviation for each measurement.
 3. We have added two additional data columns on the data set:
-..1. The subject id in the column: Subject
-..2. The activity name in the column: Activity
-....* The possible activity values are:  WALKING; WALKING_UPSTAIRS; WALKING_DOWNSTAIRS; SITTING; STANDING; LAYING
+  1. The subject id in the column: Subject
+  2. The activity name in the column: Activity
+    * The possible activity values are:  WALKING; WALKING_UPSTAIRS; WALKING_DOWNSTAIRS; SITTING; STANDING; LAYING
 5. We have changed the column names with more descriptive values following the table below:
 
 | Old Name      | New Name      |
