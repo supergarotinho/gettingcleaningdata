@@ -16,7 +16,7 @@ We have made the following modifications on the data set:
 5. We have changed the column names with more descriptive values following the table below:
 
 | Old Name      | New Name      |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 tBodyAcc-mean()-X|TimeBodyAcceleration-mean()-X
 tBodyAcc-mean()-Y|TimeBodyAcceleration-mean()-Y
 tBodyAcc-mean()-Z|TimeBodyAcceleration-mean()-Z
