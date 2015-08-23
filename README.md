@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The original dataset description and the code book describing the original variable names are here:
 
-[CodeBook][CodeBook]
+[CodeBook](CodeBook.md)
 
 ### We have made the following modifications on the data set
 
